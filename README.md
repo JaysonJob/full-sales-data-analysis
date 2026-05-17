@@ -42,4 +42,4 @@ If this project helped you, please give it a ⭐!
 
 ---
 
-**📌 Want the complete guide?** [Read the full article here →](article.md)
+**📌 Want the complete guide?** [Read the full article here →](https://dev.to/jaysonjob/full-sales-data-analysis-from-raw-data-to-interactive-business-dashboard-45la)
